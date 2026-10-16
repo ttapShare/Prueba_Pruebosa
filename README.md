@@ -23,9 +23,15 @@ Organización del repositorio
 
 <img width="661" height="522" alt="image" src="https://github.com/user-attachments/assets/98be25f2-41ad-4227-9335-c8c2fdc14509" />
 
+<img width="663" height="520" alt="Captura de pantalla 2026-10-16 051548" src="https://github.com/user-attachments/assets/caeeb278-e783-46fb-abee-5119c046bac7" />
+
+
 <img width="674" height="708" alt="image" src="https://github.com/user-attachments/assets/a12dbdd3-5976-4bbd-b423-720810a0ee42" />
 
-- `Documentacion/`: Game Design Document (GDD) y documentación del proyecto.
+<img width="666" height="365" alt="Captura de pantalla 2026-10-16 051448" src="https://github.com/user-attachments/assets/90dbb9fa-cdc6-4de5-9f37-aeb3c5a7d80c" />
+
+<img width="660" height="134" alt="Captura de pantalla 2026-10-16 051503" src="https://github.com/user-attachments/assets/89c12701-d559-406e-a070-613b1c5b5fc9" />
+
 
 Estado del proyecto
 
