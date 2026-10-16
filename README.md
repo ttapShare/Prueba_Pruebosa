@@ -1,2 +1,2 @@
-# Prueba_Pruebosa
+# Sea_Curse
 Prueba educacion
